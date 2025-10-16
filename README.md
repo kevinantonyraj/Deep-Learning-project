@@ -1,4 +1,4 @@
-#Deep Learning project 
+# Deep Learning project 
 
 # 🧥 Fashion Image Generator using GAN & Diffusion Models
 
@@ -69,10 +69,3 @@ The goal is to synthesize **high-quality fashion images** that resemble real dat
 Each image is **28×28 pixels**, grayscale.
 
 ---
-
-## ⚙️ Installation & Setup
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/<your-username>/fashion-image-generator.git
-cd fashion-image-generator
