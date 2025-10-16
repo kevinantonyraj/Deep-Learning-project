@@ -1,4 +1,5 @@
-Deep Learning project 
+#Deep Learning project 
+
 # 🧥 Fashion Image Generator using GAN & Diffusion Models
 
 This project is a **Fashion Image Generator** built using a hybrid of **Generative Adversarial Networks (GANs)** and **Diffusion Models**. It generates realistic fashion item images (such as shirts, shoes, and bags) trained on the **FashionMNIST dataset**.
